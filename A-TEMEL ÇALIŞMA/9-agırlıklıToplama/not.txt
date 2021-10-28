@@ -1,0 +1,1 @@
+bu klasörde alýnan hatalarýn en temel sebebi boyut ayarmamaktýr. çözümü 10. klasördedir.
