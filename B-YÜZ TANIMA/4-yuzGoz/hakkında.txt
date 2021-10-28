@@ -1,0 +1,1 @@
+burada bilgisayarýn kamerasýndan aldýýmýz görselde yüz,göz ve hem yüz hemde göz bulma iþlemi yapýyoruz.
